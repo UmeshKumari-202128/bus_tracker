@@ -1,4 +1,4 @@
-# flutter_login
+# google_maps_flutter_tutorial
 
 A new Flutter project.
 
