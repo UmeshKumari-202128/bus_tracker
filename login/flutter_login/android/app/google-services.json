@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460365764335",
+    "project_id": "emailpasswordauth-170b7",
+    "storage_bucket": "emailpasswordauth-170b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460365764335:android:55817a8c2dfe5bcf4fad1a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460365764335-3ntg2ndaid24igqfgc9d2jsc04su1agd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfQvyolpTMC28ab-9hAwKioqWd4eEIE4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460365764335-3ntg2ndaid24igqfgc9d2jsc04su1agd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
